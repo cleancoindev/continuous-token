@@ -31,7 +31,7 @@
   "dependencies": {
     "dotenv": "^6.0.0",
     "lodash": "^4.17.10",
-    "openzeppelin-solidity": "2.0.0",
+    "openzeppelin-solidity": "2.5.1",
     "truffle-hdwallet-provider": "^1.0.0-web3one.0",
     "zos-lib": "^2.0.1"
   },
